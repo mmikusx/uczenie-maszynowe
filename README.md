@@ -15,10 +15,10 @@ Notebook: [clustering](https://github.com/mmikusx/uczenie-maszynowe/blob/main/cl
 
 ### Excercises 2 Linear
 
-:white_check_mark: Use the cross-validation method to test the linear regression with different  values, at least three.
+:white_check_mark: Use the cross-validation method to test the linear regression with different $\\alpha$ values, at least three.
 
 :x: Implement a SGD method that will train the Lasso regression for 10 epochs.
 
-:white_check_mark: Extend the Fisher's classifier to work with two features. Use the class as the .
+:white_check_mark: Extend the Fisher's classifier to work with two features. Use the class as the $y$.
 
 Notebook: [linear](https://github.com/mmikusx/uczenie-maszynowe/blob/main/linear/025_Exercises.ipynb)
