@@ -22,3 +22,16 @@ Notebook: [clustering](https://github.com/mmikusx/uczenie-maszynowe/blob/main/cl
 :white_check_mark: Extend the Fisher's classifier to work with two features. Use the class as the $y$.
 
 Notebook: [linear](https://github.com/mmikusx/uczenie-maszynowe/blob/main/linear/025_Exercises.ipynb)
+
+
+### Excercises 3 Trees
+
+:white_check_mark: Rewrite the CART method to the Gini index.
+
+:white_check_mark: Use pydot do draw the tree for C4.5 example.
+
+:white_check_mark: Implement the minimum number of objects pruning method.
+
+:x: Plot OC1 tree, but instead of elements id, print the feature id it was split by.
+
+Notebook: [trees](https://github.com/mmikusx/uczenie-maszynowe/blob/main/trees/055Decision_trees_Exercises.ipynb)
