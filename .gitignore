@@ -18,3 +18,8 @@
 /trees/053Decision_trees_Multivariate.ipynb
 /trees/054Decision_trees_Quality.ipynb
 /trees/*.png
+/ensemble/.idea
+/ensemble/071Ensemble_Introduction.ipynb
+/ensemble/072Ensemble_Bagging.ipynb
+/ensemble/073Ensemble_Boosting.ipynb
+/ensemble/074Ensemble_Stacking.ipynb
