@@ -35,3 +35,11 @@ Notebook: [linear](https://github.com/mmikusx/uczenie-maszynowe/blob/main/linear
 :x: Plot OC1 tree, but instead of elements id, print the feature id it was split by.
 
 Notebook: [trees](https://github.com/mmikusx/uczenie-maszynowe/blob/main/trees/055Decision_trees_Exercises.ipynb)
+
+### Excercises 4 Ensemble
+
+:white_check_mark: Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
+
+:white_check_mark: Build arcing arc-x4 method. 
+
+Notebook: [ensemble](https://github.com/mmikusx/uczenie-maszynowe/blob/main/ensemble/075Ensemble_Exercises.ipynb)
