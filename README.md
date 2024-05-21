@@ -43,3 +43,25 @@ Notebook: [trees](https://github.com/mmikusx/uczenie-maszynowe/blob/main/trees/0
 :white_check_mark: Build arcing arc-x4 method. 
 
 Notebook: [ensemble](https://github.com/mmikusx/uczenie-maszynowe/blob/main/ensemble/075Ensemble_Exercises.ipynb)
+
+### Excercises 5 SVM
+
+:white_check_mark: Implement the polynomial kernel.
+
+:x: Implement the multiclass C-SVM.
+
+Notebook: [svm](https://github.com/mmikusx/uczenie-maszynowe/blob/main/svm/065_SVM_Exercises.ipynb)
+
+### Excercises 6 NLP
+
+:white_check_mark: Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
+
+:white_check_mark: Get tags from Trump speech.
+
+:white_check_mark: Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentencens. Use SpaCy.
+
+:x: Build your own Bag Of Words implementation using tokenizer created before.
+
+:x: Build a 5-gram model and clean up the results.
+
+Notebook: [nlp](https://github.com/mmikusx/uczenie-maszynowe/blob/main/nlp/106_NLP_Exercises.ipynb)
